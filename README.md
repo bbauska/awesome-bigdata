@@ -530,6 +530,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
 * [Sumo Logic](https://www.sumologic.com/) - cloud based analyzer for machine-generated data.
 * [Talend](http://www.talend.com/products/big-data/) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
+* [NextJSON](https://nextjson.com/) - free online nested JSON parser and formatter; decode escaped JSON, inspect and convert JSON in the browser.
 
 ## Search engine and framework
 
